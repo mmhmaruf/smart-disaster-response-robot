@@ -1,4 +1,4 @@
-## 🧠 Training (Edge Impulse)
+##  🧠 Training (Edge Impulse)
 
 1. Collect audio data
 2. Label data
