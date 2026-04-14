@@ -1,4 +1,4 @@
-// Simplified AI Logic Example
+//  Simplified AI Logic Example
 
 String command = "none";
 float confidence = 0;
